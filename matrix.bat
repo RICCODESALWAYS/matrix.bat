@@ -1,5 +1,5 @@
 @echo off
 :start
-color 02
+color 03
 echo %random%%random%%random%%random%%random%­%random%%random%%random%%random%%random%­­%random%%random%%random%%random%%random­%
 goto start 
